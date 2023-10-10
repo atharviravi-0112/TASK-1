@@ -1,0 +1,29 @@
+ .center-content {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+ }
+
+ img {
+     height: 90px;
+     width: 90px;
+ }
+
+ .card {
+     text-align: center;
+ }
+
+ ul {
+     align-items: center;
+     list-style: none;
+
+ }
+
+ .card-text {
+     text-align: justify;
+ }
+
+ .head {
+     margin-bottom: 20px;
+ }
